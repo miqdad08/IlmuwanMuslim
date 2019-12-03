@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ilmuwan Muslim</string>
+    <string name="Judul">Judul</string>
+    <string name="ahmad_miqdad">Ahmad Miqdad</string>
+    <string name="bioadata">Biodata</string>
+    <string name="miqdad">Ahmad Miqdad</string>
+    <string name="alamattt">Alamat : Jl.Al-Mabruk</string>
+    <string name="ttll">Ttl : Jakarta 28 November 2005</string>
+    <string name="instagrama">Instagram : @miqdaaad_</string>
+    <string name="gmail">Gmail : miqdaddeveloper@gmail.com</string>
+    <string name="kelas">Kelas : 8D</string>
+    <string name="sekolah">Sekolah : IDN Boarding School</string>
+    <string name="github">Github : Miqdad05</string>
+    <string name="dicodding">Dicoding : Ahmad Miqdad</string>
+    <string name="isi">Penjelasan</string>
+</resources>
